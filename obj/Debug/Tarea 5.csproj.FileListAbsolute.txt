@@ -1,0 +1,15 @@
+C:\Users\ANGELA SALCEDO\source\repos\Tarea 5\bin\Debug\Tarea 5.exe.config
+C:\Users\ANGELA SALCEDO\source\repos\Tarea 5\bin\Debug\Tarea 5.exe
+C:\Users\ANGELA SALCEDO\source\repos\Tarea 5\bin\Debug\Tarea 5.pdb
+C:\Users\ANGELA SALCEDO\source\repos\Tarea 5\obj\Debug\Tarea 5.csprojAssemblyReference.cache
+C:\Users\ANGELA SALCEDO\source\repos\Tarea 5\obj\Debug\Tarea_5.Fomularios.FrmE1.resources
+C:\Users\ANGELA SALCEDO\source\repos\Tarea 5\obj\Debug\Tarea_5.Fomularios.FrmMenu.resources
+C:\Users\ANGELA SALCEDO\source\repos\Tarea 5\obj\Debug\Tarea_5.Properties.Resources.resources
+C:\Users\ANGELA SALCEDO\source\repos\Tarea 5\obj\Debug\Tarea 5.csproj.GenerateResource.cache
+C:\Users\ANGELA SALCEDO\source\repos\Tarea 5\obj\Debug\Tarea 5.csproj.CoreCompileInputs.cache
+C:\Users\ANGELA SALCEDO\source\repos\Tarea 5\obj\Debug\Tarea 5.exe
+C:\Users\ANGELA SALCEDO\source\repos\Tarea 5\obj\Debug\Tarea 5.pdb
+C:\Users\ANGELA SALCEDO\source\repos\Tarea 5\obj\Debug\Tarea_5.Fomularios.FrmE2.resources
+C:\Users\ANGELA SALCEDO\source\repos\Tarea 5\obj\Debug\Tarea_5.Fomularios.FrmE3.resources
+C:\Users\ANGELA SALCEDO\source\repos\Tarea 5\obj\Debug\Tarea_5.Fomularios.FrmE4.resources
+C:\Users\ANGELA SALCEDO\source\repos\Tarea 5\obj\Debug\Tarea_5.Fomularios.FrmE5.resources
